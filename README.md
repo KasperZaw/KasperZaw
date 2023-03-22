@@ -1,12 +1,14 @@
 
 
+<div align="center">
+<img src="https://thumbs.gfycat.com/EveryCheerfulHumpbackwhale-max-1mb.gif" align="center" height="400" width="400" />
+</div>
+
+
 💫 About Me:
 👱  Name: Kacper Zawadzki<br>👨‍💻 Profesion: Front end developer junior<br>💼 Work status: Looking for a job<br>🌐 Portfolio: https://kasperzaw.github.io/Portfolio/ 
 
 
-<div align="center">
-<img src="https://thumbs.gfycat.com/EveryCheerfulHumpbackwhale-max-1mb.gif" align="center" height="400" width="400" />
-</div>
 
 
 ### What I'm working on  
