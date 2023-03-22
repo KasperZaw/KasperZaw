@@ -9,7 +9,7 @@
 </div>
 
 <br/>  
-
+<br/>  
 ### What I'm working on  
 - 🔭 I’m currently working on fitness game app💪🏋️  
   
@@ -20,7 +20,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-<br/>  
+
 
 
 
