@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <br/>
-💫 ##About Me:
+## 💫About Me:
 <br/>👱  Name: Kacper Zawadzki<br>👨‍💻 Profesion: Front end developer junior<br>💼 Work status: Looking for a job<br>🌐 Portfolio: https://kasperzaw.github.io/Portfolio/ 
 
 
