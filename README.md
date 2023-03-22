@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div>
 <img src="https://thumbs.gfycat.com/EveryCheerfulHumpbackwhale-max-1mb.gif" align="center" height="400" width="400" />
 </div>
 
