@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://thumbs.gfycat.com/EveryCheerfulHumpbackwhale-max-1mb.gif" align="left" height="400" width="400" />
-</div>  
+</div>  <br>
 
 
 💫 About Me:
