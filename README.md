@@ -13,14 +13,14 @@
 
 
 
-### What I'm working on  
-- 🔭 I’m currently working on fitness game app💪🏋️  
+                                              ###  What I'm working on  
+                                  - 🔭 I’m currently working on fitness game app💪🏋️  
   
 
-- 🌱 I’m currently learning React, Typescript, React Native  
+                                  - 🌱 I’m currently learning React, Typescript, React Native  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+                                  - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 
