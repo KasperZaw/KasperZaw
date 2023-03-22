@@ -8,7 +8,7 @@
 <img src="https://thumbs.gfycat.com/EveryCheerfulHumpbackwhale-max-1mb.gif" align="left" height="400" width="400" />
 </div>
 
-
+<br/>  
 
 ### What I'm working on  
 - 🔭 I’m currently working on fitness game app💪🏋️  
