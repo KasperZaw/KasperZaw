@@ -3,13 +3,12 @@
 💫 About Me:
 👱  Name: Kacper Zawadzki<br>👨‍💻 Profesion: Front end developer junior<br>💼 Work status: Looking for a job<br>🌐 Portfolio: https://kasperzaw.github.io/Portfolio/ 
 
-<br/>  
+
 <div align="center">
 <img src="https://thumbs.gfycat.com/EveryCheerfulHumpbackwhale-max-1mb.gif" align="left" height="400" width="400" />
 </div>
 
-<br/>  
-<br/>  
+
 ### What I'm working on  
 - 🔭 I’m currently working on fitness game app💪🏋️  
   
